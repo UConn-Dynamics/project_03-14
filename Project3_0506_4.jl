@@ -6,7 +6,7 @@ using InteractiveUtils
 
 # ╔═╡ d0c26027-876d-4426-8250-e3def024046d
 begin
-	import Pkg   # ← YOU ARE MISSING THIS LINE
+	import Pkg   
 
 	Pkg.activate(temp=true)
 
